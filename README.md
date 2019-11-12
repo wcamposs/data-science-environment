@@ -1,6 +1,6 @@
 # Description:
 
-A little project to setup a Jupyter Lab with some scientific libraries with Docker (from imakecodes repository)
+A little project to setup a Jupyter Lab with some scientific libraries with Docker (from [imakecodes repository](https://github.com/imakecodes/data-science-environment) )
 
 # Installing:
 
