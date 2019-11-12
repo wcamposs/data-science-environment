@@ -6,6 +6,8 @@ A little project to setup a Jupyter Lab with some scientific libraries with Dock
 
 To install docker, I recommend [This Tutorial](https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-18-04-pt) untill complete **Step 2**.
 
+After complete **Step 2**, install *docker-compose* runing this comand on your terminal:
+
 ```
 pip install docker-compose
 ```
