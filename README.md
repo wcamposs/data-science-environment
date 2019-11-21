@@ -9,7 +9,7 @@ To install docker, I recommend [This Tutorial](https://www.digitalocean.com/comm
 After complete **Step 2**, install *docker-compose* runing this comand on your terminal:
 
 ```
-pip install docker-compose
+sudo apt install docker-compose
 ```
 
 # Building Environment:
